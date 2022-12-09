@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YI$HA!\\Documents\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj": {}
+    "C:\\Users\\YI$HA!\\Documents\\GitHub\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YI$HA!\\Documents\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj": {
+    "C:\\Users\\YI$HA!\\Documents\\GitHub\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YI$HA!\\Documents\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj",
+        "projectUniqueName": "C:\\Users\\YI$HA!\\Documents\\GitHub\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj",
         "projectName": "currencyConverter",
-        "projectPath": "C:\\Users\\YI$HA!\\Documents\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj",
+        "projectPath": "C:\\Users\\YI$HA!\\Documents\\GitHub\\BNU-550-WebApps21\\currencyConverter\\currencyConverter.csproj",
         "packagesPath": "C:\\Users\\YI$HA!\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YI$HA!\\Documents\\BNU-550-WebApps21\\currencyConverter\\obj\\",
+        "outputPath": "C:\\Users\\YI$HA!\\Documents\\GitHub\\BNU-550-WebApps21\\currencyConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YI$HA!\\AppData\\Roaming\\NuGet\\NuGet.Config",
